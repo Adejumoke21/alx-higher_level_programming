@@ -1,1 +1,2 @@
-My read me file
+# Python - import & modules
+ Foundations - Higher-level programming ― Python
